@@ -93,16 +93,7 @@ Precision
 Recall
 F1 Score
 
-Example:
 
-from sklearn.metrics import classification_report
- How to Run
-Clone Repository
-git clone https://github.com/yourusername/sentiment-analysis.git
-Install Dependencies
-pip install -r requirements.txt
-Run Jupyter Notebook
-jupyter notebook
 
 Open:
 
@@ -130,13 +121,8 @@ Customer Feedback Analysis
 Social Media Analytics
 Product Review Analysis
 Customer Support Ticket Classification
-🔮 Future Improvements
-Deep Learning Models (LSTM)
-BERT-based Sentiment Analysis
-Web Application Deployment
-Real-time Social Media Monitoring
-Multilingual Sentiment Analysis
-👩‍💻 Author
+
+ Author
 
 Vaishnavi Chaubey
 
